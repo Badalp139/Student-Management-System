@@ -4,17 +4,17 @@ A comprehensive Student Management System developed to manage student informatio
 
 ## Features.
 
-.Student Registration: Allows students to register and update their personal information.
+#. Student Registration: Allows students to register and update their personal information.
 
-.Course Management: Admin can add, update, and delete courses. Students can view available courses and enroll.
+. Course Management: Admin can add, update, and delete courses. Students can view available courses and enroll.
 
-.Grade Tracking: Admin and faculty can assign grades to students. Students can view their grades.
+. Grade Tracking: Admin and faculty can assign grades to students. Students can view their grades.
 
-.Attendance Tracking: Tracks student attendance for each course and provides reports.
+. Attendance Tracking: Tracks student attendance for each course and provides reports.
 
-.User Roles: Different user roles including Admin, Faculty, and Student with specific access permissions.
+. User Roles: Different user roles including Admin, Faculty, and Student with specific access permissions.
 
-.Responsive UI: Built with a user-friendly interface using Bootstrap, ensuring accessibility across all devices.
+. Responsive UI: Built with a user-friendly interface using Bootstrap, ensuring accessibility across all devices.
 
 ## Technologies Used.
 
