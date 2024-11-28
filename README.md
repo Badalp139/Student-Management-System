@@ -4,7 +4,7 @@ A comprehensive Student Management System developed to manage student informatio
 
 ## Features.
 
-#. Student Registration: Allows students to register and update their personal information.
+# . Student Registration: Allows students to register and update their personal information.
 
 . Course Management: Admin can add, update, and delete courses. Students can view available courses and enroll.
 
